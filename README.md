@@ -1,6 +1,6 @@
 # TheGPTChecker
 
-**A free tool that fact-checks ChatGPT responses and flags hallucinations.**
+**A tool that fact-checks ChatGPT responses and flags hallucinations.**
 
 🔗 [thegptchecker.com](https://www.thegptchecker.com)
 
@@ -47,7 +47,7 @@ This is especially risky when using AI for **school assignments, research, medic
 2. Paste it into [thegptchecker.com](https://www.thegptchecker.com)
 3. Get a claim-by-claim accuracy breakdown in seconds
 
-No account required. Free to use.
+No account required. 
 
 ---
 
